@@ -6,10 +6,17 @@
 }
 
 body {
-    background-color: pink;
+    
+    background-color:hsl(212, 45%, 89%);
 }
 
 .flex-container {
+    margin-top: 5rem;
     display: flex;
     flex-direction: column;
+    background-color: white;
+  }
+
+  .qr-code {
+      width: 100%;
   }
