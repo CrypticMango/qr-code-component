@@ -3,10 +3,20 @@
 *::after {
   box-sizing: border-box;
   text-align: center;
+  font-family: 'Outfit', sans-serif;
 }
 
 body {
     background-color:hsl(212, 45%, 89%);
+}
+
+img {
+  width: 300px;
+  border-radius: 12px;
+}
+
+h1 {
+  font-size:x-large;
 }
 
 .container {
@@ -16,10 +26,9 @@ body {
     justify-content: center;
     align-items: center;
     background-color: white;
-    border-radius: 7px;
+    border-radius: 25px;
+    height: 545px;
+    width: 330px;
   }
 
-  .qr-code {
-      max-width: 200%;
-      height: auto;
-  }
+  
