@@ -18,6 +18,12 @@ img {
 
 h1 {
   font-size:x-large;
+  padding: 0rem 1.5rem 0rem 1.5rem;
+}
+
+p {
+  padding: 0rem 1.5rem 1rem 1.5rem;
+  color: hsl(220, 15%, 55%);
 }
 
 .container {
@@ -29,7 +35,7 @@ h1 {
     align-items: center;
     background-color: white;
     border-radius: 25px;
-    height: 545px;
+    height: 520px;
     width: 330px;
   }
 
