@@ -8,6 +8,7 @@
 
 body {
     background-color:hsl(212, 45%, 89%);
+   
 }
 
 img {
@@ -20,7 +21,8 @@ h1 {
 }
 
 .container {
-    margin-top: 5rem;
+    margin: 0 auto;
+    margin-top: 8rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
