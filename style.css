@@ -27,6 +27,7 @@ p {
 }
 
 .container {
+  box-shadow: 10px 10px 20px .5px hsla(0, 0%, 55%, 0.247);
     margin: 0 auto;
     margin-top: 8rem;
     display: flex;
@@ -37,6 +38,10 @@ p {
     border-radius: 25px;
     height: 520px;
     width: 330px;
+  }
+
+  .attribution {
+    padding-top: 2rem;
   }
 
   
